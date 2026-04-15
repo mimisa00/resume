@@ -1,4 +1,4 @@
-# Shaun Liao
+# Shaun (Liao, Chih-Hsiu)
 
 **Senior DevOps Engineer | Lead Infrastructure Engineer**  
 Taichung, Taiwan | [mimisa00@gmail.com](mailto:mimisa00@gmail.com)  
@@ -7,23 +7,22 @@ Taichung, Taiwan | [mimisa00@gmail.com](mailto:mimisa00@gmail.com)
 ---
 
 ### Profile Picture
-[Shaun Liao Profile Picture](https://github.com/user-attachments/assets/2f8cd5ad-158e-4a2b-98e3-2c88019b6cae)  
-
+![Shaun Liao Profile Picture](https://github.com/user-attachments/assets/2f8cd5ad-158e-4a2b-98e3-2c88019b6cae)
 
 ### Professional Summary
 Results-driven Senior DevOps Engineer with 13+ years of experience in backend development, system architecture, and large-scale ERP infrastructure operations. Specialized in building high-availability systems, implementing CI/CD pipelines, container orchestration, and proactive monitoring. Proven ability to lead small teams, standardize processes, and deliver operational stability while maintaining strict security and compliance standards. Recently focused on enterprise AI integration (RAG systems) to enhance team productivity.
 
 ### Technical Skills
 
-| Category              | Technologies |
-|-----------------------|--------------|
-| **DevOps & CI/CD**    | Jenkins, GitLab CI, Maven, Nexus, Infrastructure as Code (IaC) |
-| **Containerization**  | Docker, Kubernetes (K8s), Docker Swarm, Portainer |
-| **Cloud & Infrastructure** | Google Cloud Platform (GCP), VMware vSphere/ESXi, FortiGate, Linux (CentOS/Rocky) |
-| **Observability**     | Prometheus, Grafana, ELK Stack, Pinpoint, Custom Shell Scripts |
-| **Backend**           | Java (Spring Boot), Hibernate (ORM), PHP, Python, Shell Scripting |
-| **Databases**         | MariaDB, SQL Server, MySQL |
-| **Others**            | Nginx, Tomcat, Git, Jira, Confluence, Solr |
+| Category                  | Technologies |
+|---------------------------|--------------|
+| **DevOps & CI/CD**        | Jenkins, GitLab CI, Maven, Nexus, Infrastructure as Code (IaC) |
+| **Containerization**      | Docker, Kubernetes (K8s), Docker Swarm, Portainer |
+| **Cloud & Infrastructure**| Google Cloud Platform (GCP), VMware vSphere/ESXi, FortiGate, Linux (CentOS/Rocky) |
+| **Observability**         | Prometheus, Grafana, ELK Stack, Pinpoint, Custom Shell Scripts |
+| **Backend**               | Java (Spring Boot), Hibernate (ORM), PHP, Python, Shell Scripting |
+| **Databases**             | MariaDB, SQL Server, MySQL |
+| **Others**                | Nginx, Tomcat, Git, Jira, Confluence, Solr |
 
 ### Key Achievements & Milestones
 
@@ -46,11 +45,11 @@ Results-driven Senior DevOps Engineer with 13+ years of experience in backend de
 ### Professional Experience
 
 **Senior DevOps Engineer (DevOps Lead)**  
-**Yi-An Technology Co., Ltd.** 
+**Yi-An Technology Co., Ltd.**  
 Taichung, Taiwan  
 *July 2013 – Present*
 
-- Lead a 4-person DevOps team responsible for the stability, performance, and security of the company-wide ERP platform serving 500+ employees
+- Led a 4-person DevOps team responsible for the stability, performance, and security of the company-wide ERP platform serving 500+ employees
 - Designed and enforced information security controls including access management, audit logging, database permissions, and change management processes
 - Owned end-to-end CI/CD pipelines, container orchestration, and infrastructure automation
 - Mentored team members, defined OKRs, and established standard operating procedures for development, deployment, and onboarding
@@ -87,4 +86,3 @@ National Taichung University of Science and Technology
 
 - Sun Certified Java Programmer (SCJP) – Sun Microsystems  
 - Level C Computer Hardware Technician – Taiwan Ministry of Labor
-
