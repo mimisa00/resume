@@ -49,7 +49,7 @@ Results-driven Senior DevOps Engineer with 13+ years of experience in backend de
 Taichung, Taiwan  
 *July 2013 – Present*
 
-- Led a 4-person DevOps team responsible for the stability, performance, and security of the company-wide ERP platform serving 500+ employees
+- Led a cross-functional team of 5 engineers — covering DevOps, cloud infrastructure (GCP), database operations, frontend development, and ERP customization — responsible for end-to-end platform stability and delivery serving 800+ users.
 - Designed and enforced information security controls including access management, audit logging, database permissions, and change management processes
 - Owned end-to-end CI/CD pipelines, container orchestration, and infrastructure automation
 - Mentored team members, defined OKRs, and established standard operating procedures for development, deployment, and onboarding
