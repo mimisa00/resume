@@ -7,7 +7,8 @@ Taichung, Taiwan | [mimisa00@gmail.com](mailto:mimisa00@gmail.com)
 ---
 
 ### Profile Picture
-![Shaun Liao Profile Picture](https://github.com/user-attachments/assets/2f8cd5ad-158e-4a2b-98e3-2c88019b6cae)
+<img width="100" src="https://github.com/user-attachments/assets/2f8cd5ad-158e-4a2b-98e3-2c88019b6cae" />
+
 
 ### Professional Summary
 Results-driven Senior DevOps Engineer with 13+ years of experience in backend development, system architecture, and large-scale ERP infrastructure operations. Specialized in building high-availability systems, implementing CI/CD pipelines, container orchestration, and proactive monitoring. Proven ability to lead cross-functional teams, standardize processes, and deliver operational stability while maintaining strict security and compliance standards. Currently piloting end-to-end AI Agent workflows — from Jira issue ingestion and requirements analysis to spec generation, coding, and automated deployment — with multiple successful cases delivered and actively expanding coverage.
