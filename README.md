@@ -1,6 +1,6 @@
 # Shaun (Liao, Chih-Hsiu)
 
-**Senior DevOps Engineer | Lead Infrastructure Engineer**  
+**Senior Chief Engineer | Lead Infrastructure Engineer**  
 Taichung, Taiwan | [mimisa00@gmail.com](mailto:mimisa00@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/shaun8168/) | [GitHub](https://github.com/mimisa00) | Open to Relocate to Vietnam
 
