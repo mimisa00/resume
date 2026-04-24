@@ -11,7 +11,7 @@ Taichung, Taiwan | [mimisa00@gmail.com](mailto:mimisa00@gmail.com)
 
 
 ### Professional Summary
-Results-driven Senior DevOps Engineer with 13+ years of experience in backend development, system architecture, and large-scale ERP infrastructure operations. Specialized in building high-availability systems, implementing CI/CD pipelines, container orchestration, and proactive monitoring. Proven ability to lead cross-functional teams, standardize processes, and deliver operational stability while maintaining strict security and compliance standards. Currently piloting end-to-end AI Agent workflows — from Jira issue ingestion and requirements analysis to spec generation, coding, and automated deployment — with multiple successful cases delivered and actively expanding coverage.
+12+ years of experience in backend development, system architecture, and large-scale ERP infrastructure operations. Specialized in building high-availability systems, implementing CI/CD pipelines, container orchestration, and proactive monitoring. Proven ability to lead cross-functional teams, standardize processes, and deliver operational stability while maintaining strict security and compliance standards. Currently piloting end-to-end AI Agent workflows — from Jira issue ingestion and requirements analysis to spec generation, coding, and automated deployment — with multiple successful cases delivered and actively expanding coverage.
 
 ### Technical Skills
 
