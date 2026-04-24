@@ -45,7 +45,7 @@ Taichung, Taiwan | [mimisa00@gmail.com](mailto:mimisa00@gmail.com)
 
 ### Professional Experience
 
-**Senior DevOps Engineer (DevOps Lead)**  
+**Senior Chief Engineer (DevOps Lead)**  
 **Yi-An Technology Co., Ltd.**  
 Taichung, Taiwan  
 *July 2013 – Present*
